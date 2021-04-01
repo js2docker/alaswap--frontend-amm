@@ -2032,9 +2032,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@goosedefi/goose-uikit":
+"@pancakeswap-libs/uikit@alaswap/alaswap-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/goosedefi/goose-uikit/tar.gz/03997c1a248bb60da7c46a1ae204d8e96414d092"
+  resolved "https://codeload.github.com/alaswap/alaswap-uikit/tar.gz/03997c1a248bb60da7c46a1ae204d8e96414d092"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
